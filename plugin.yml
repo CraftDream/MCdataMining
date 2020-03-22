@@ -1,0 +1,11 @@
+name: MCdataMining
+main: me.CraftDream.mcdm.mcdm
+version: "1.0.0"
+api: ["1.0.0"]
+
+author: Bear, CraftDream
+
+commands:
+  dm:
+    description: Main command of MCdataMining.
+    usage: /<command> (Startup error)
